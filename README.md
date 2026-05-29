@@ -128,6 +128,7 @@ GitPilot is open-source and available under the [MIT License](LICENSE). Feel fre
 ```markdown
 ---
 
-> **Wait, you read the whole thing?** 🤯 
-> That deserves a medal—or better yet, a cold treat. Ping me on Instagram at [@billa_pandey16] and tell me your favorite flavor. I officially owe you an ice cream! 🍦
+> **Wait, you read the whole thing?** 
+> That deserves a medal—or better yet, a cold treat. Ping me on Instagram at [@billa_pandey16]
+ and tell me your favorite flavor. I officially owe you an ice cream!
 ```
